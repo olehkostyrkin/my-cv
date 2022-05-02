@@ -1,5 +1,5 @@
 body {
-    background-image: url(/img/background-image.JPG);
+    background-image: url("/img/background-image.jpg");
     display: flex;
     justify-content: center;
     background-color: rgb(246, 238, 229);
@@ -25,7 +25,7 @@ header {
 }
 
 .main-content > h1 {
-    font-size: 400%; 
+    font-size: 400%;
 }
 
 .bold-text { 
