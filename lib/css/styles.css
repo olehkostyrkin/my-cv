@@ -102,10 +102,7 @@ main {
 }
 .bottom-section {
     display: flex;
-    flex-direction: row-reverse;
     flex-direction: column;
 }
-.box-expirience {
-    width: calc(100%-40%);
-}
+
 }
