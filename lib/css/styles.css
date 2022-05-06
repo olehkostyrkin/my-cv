@@ -100,9 +100,19 @@ main {
     min-width: 70px;
     border-radius: 50%;
 }
-.bottom-section {
-    display: flex;
-    flex-direction: column;
+
+.top-section h1 {
+    text-align: center;
+}
+
+.bottom-left  {
+    width: calc(100% - 2 * 2%);
+    padding-bottom: 3%;
+    border-right: none;
+}
+
+.box-expirience {
+    width: calc(100%-40%);
 }
 
 }
